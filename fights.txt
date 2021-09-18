@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" type="text/css" href="style.css">
+<div id="page">
+<head>
+	<meta charset="utf-8">
+	<title>Muhammad Umar Tariq - 3042331</title>
+</head>
+<body>
+	<div id="container">
+		
+
+		<header>
+			<div id="nav-bar">
+			<nav>
+				<ul>
+					<a href="index.html"><li>Home</li></a>
+					<a href="bio.html"><li>Biography</li></a>
+					<a href="media.html"><li>Media</li></a>
+					<a href="accomplishments.html"><li>Accomplishemnts</li></a>
+					<a href="fights.html"><li>Fights</li></a>
+					<a href="documentary.html"><li>Documentary</li></a>
+					<a href="me.html"><li>About Me</li></a>
+				</ul>
+			</nav>
+			
+			</div>
+
+			<img src="images/fights-bg.jpeg">
+			
+
+		</header>
+	<div id="content">
+		<main>
+				<h1>Muhammad Ali's 10 Greatest Fights</h1>
+
+				<h3>#10 - Cassius Clay vs. Tunney Hunsaker - Oct. 29, 1960</h3>
+				<iframe src="https://www.youtube.com/embed/7QrfJDr2Ecw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen width="800" height="400"></iframe>
+				<p>The Hunsaker fight took place in San Antonioand was a six-round affair.Hunsaker was a good test for Clay. He had a 15-9-1 record, so he wasn't a dominant fighter but was a journeyman who could give Clay some fits but would ultimately fall to the Olympian.<br>Clay won the fight by unanimous decision but said in his autobiography that Hunsaker hit him with one of the hardest body shots he ever received.</p>
+
+				<h3>#9 - Clay vs. Archie Moore - Nov. 15, 1962</h3>
+				<iframe src="https://www.youtube.com/embed/fVBL4SmeHLQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen width="800" height="400"></iframe>
+				<p>By this point, Clay was 15-0 and buzz was starting to surround the young heavyweight. Now he was about to stepup and face his toughest test to date.<br>This is when the bravado of Clay came to light when he proclaimed before the fight,"Archie Moore ...Must fall in four." And fall in four Moore did for Clay's first win over a name opponent.</p>
+
+				<h3>#8 - Clay vs. Sonny Liston - Feb. 25, 1964</h3>
+				<iframe src="https://www.youtube.com/embed/NXYwb2C6Hec" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen width="800" height="400"></iframe>
+				<p>Liston was coming off two vicious first-round knockouts of former heavyweight champ Floyd Patterson. Not many people gave Clay much of a chance to unseat the 7-1 favorite in Liston.<br>That didn't stop Clay from trash-talking Listonand perhaps his most famous phrase that he would"float like a butterfly and sting like a bee." And that is what Clay did. He was too quick for the powerful Liston, getting in and getting out. Liston had no answer for Clay's speed and power and it proved to be too much as the former champion didn't get off his stool to start the seventh round and Clay became the undisputed heavyweight champion of the world.</p>
+
+				<h3>#7 - Muhammad Ali vs. Floyd Patterson - Nov. 22, 1965</h3>
+				<iframe src="https://www.youtube.com/embed/uNAzqAa7GHc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen width="800" height="400"></iframe>
+				<p>After the first Liston fight, Clay adopted the name Muhammad Ali after converting to Islam and was looking to make his second title defense.<br>Ali won the fight by 12th-round TKO in a fight he controlled throughout. Hewas criticized fornot finishing it sooner and even went as far as not throwing a punch in the first round.</p>
+
+				<h3>#6 - Ali vs. Karl Mildenberger - Sept. 10, 1966</h3>
+				<iframe src="https://www.youtube.com/embed/skZMMStM6Nw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen width="800" height="400"></iframe>
+				<p>Mildenberger was a tricky southpaw from Germany who had won numerous European and Continental titles and would be a tough foe for Ali.<br>There were moments during the fight in which Ali had some difficulty but he pulled through to win by TKO in Round 12.</p>
+
+				<h3>#5 - Ali vs. Leon Spinks - Sept. 15, 1978</h3>
+				<iframe src="https://www.youtube.com/embed/duhEi-aVCSU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen width="800" height="400"></iframe>
+				<p>Ali controlled the entire bout to win by unanimousdecision to take the title for the third and final time. It ended up being the final win of his career.<br>The fight broke all boxing records for that time. About 90 million people watched the fight on ABC and 63,350 people packed the Superdome, marking thebiggest indoor attendance for a boxing match.</p>
+
+				<h3>#4 - Ali vs. Jerry Quarry I - Oct. 26, 1970</h3>
+				<iframe src="https://www.youtube.com/embed/gLt53RoZri4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen width="800" height="400"></iframe>
+				<p>This would be Ali's first fight in three-and-half years after refusing to be drafted into the Army for the Vietnam War.<br>Ali defeated Quarry by third-round TKO after Quarry suffered a cut and wasn't allowed to continue. Ali was a little rusty because of the inactivity but the win was a testament to how good Ali was.</p>
+
+				<h3>#3 - Ali vs. George Foreman - Oct. 30, 1974</h3>
+				<iframe src="https://www.youtube.com/embed/ODQt5ZqVW-c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen width="800" height="400"></iframe>
+				<p>This fight was dubbed the"Rumble in the Jungle" and took place in Zaire. Foreman was 40-0 and considered the hardest puncher in the division. Ali was 32 years old and had started to see his reflexes and speed slow down. Just about no one gave Ali much of chance. <br>In the second round, Ali decided to go against the ropes and adopted the"Rope-A-Dope" style and it ended up wearing Foreman out halfway through the fight. Ali saw the opening and went to work and knocked out Foreman in the eighth round to win the title for the second time.</p>
+
+				<h3>#2 - Ali vs. Joe Frazier I - March 8, 1971</h3>
+				<iframe src="https://www.youtube.com/embed/jQhFhdmW6Vs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen width="800" height="400"></iframe>
+				<p>When Ali was on his three-year hiatus, Frazier seized the opportunity and had become the heavyweight champion. When Ali returned it became inevitable they would meet inside the squared circle. <br>The two undefeated champions finally met on that March night in Madison Square Garden and the hype leading into the fight was titled"The Fight of the Century". <br>With the world watching, Frazier proved for that night, he was the better man and won by unanimous decision to hand Ali his first loss.</p>
+
+				<h3>#1 - Ali. vs Frazier III - Oct. 1, 1975</h3>
+				<iframe src="https://www.youtube.com/embed/ZIu12nx_dBE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen width="800" height="400"></iframe>
+				<p>Ali and Frazier rematched in 1974 with Ali winning an uneventful unanimous decision. You knew a trilogy match would happen; it was just a matter of when it would take place. Not only did it take place, but it went across the globe to Manilla,Philippines. <br>This fight was dubbed the "Thrilla in Manila" with temperatures near 100 degrees.At the time, it was considered the most brutal fight in the history of the heavyweight division. They went toetotoe for 14 rounds with Ali winning the fight asFrazier's trainer, Eddie Futch, stoppedthe fight after the 14th.<br> After the fight, Ali saidthe bout"was the closest thing to dying that I know."</p>
+
+
+		</main>
+		
+	</div>	
+	<footer>
+				<div>
+			<nav>
+				<ul>
+					<li>Muhammad Umar Tariq</li>
+					<li>GC. Ref: 3042331</li>
+					<li>muhammadumar123@live.com</li>
+				</ul>
+			</nav>
+			</div>
+		
+	</footer>
+
+	</div>
+
+</body>
+</div>
+</html>

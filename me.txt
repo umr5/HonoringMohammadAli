@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" type="text/css" href="style.css">
+<div id="page">
+<head>
+	<meta charset="utf-8">
+	<title>Muhammad Umar Tariq - 3042331</title>
+</head>
+<body>
+	<div id="container">
+		
+
+		<header>
+			<div id="nav-bar">
+			<nav>
+				<ul>
+					<a href="index.html"><li>Home</li></a>
+					<a href="bio.html"><li>Biography</li></a>
+					<a href="media.html"><li>Media</li></a>
+					<a href="accomplishments.html"><li>Accomplishemnts</li></a>
+					<a href="fights.html"><li>Fights</li></a>
+					<a href="documentary.html"><li>Documentary</li></a>
+					<a href="me.html"><li>About Me</li></a>
+				</ul>
+			</nav>
+			
+			</div>
+
+			<img src="images/me-bg.png">
+			
+
+		</header>
+	<div id="content">
+		<main>
+			<h2>About the Author</h2>
+
+			<p>Hello everyone and welcome to my website,</p>
+			<img src="images/me.jpg" class="me-pic">
+			<p>This is Umar, I was born in Lahore-Pakistan but grew up in Dubai-UAE. I am 20 years old and I have been living in Dubai for the past 15 years. I just got done with my A levels and decided to pursue a degree in Computer Science because I love computers. I intend to complete my Bachelors at Griffith College and pursue a Masters in Artificial Intelligence. Maybe make a self-driving car or baby robot that can be sent to school, who knows where technology will take us...</p>
+
+			<p>I started learning HTML when I was in Grade 6. It has always been my dream to learn more and make my work better. I have developed some websites using templates and wix.com. This was my very first hands-on full website attempt with CSS and I found it a very interesting coding language to add new features to your websites. Along with web designing, I am keen to more about programming in general. I have been learning C++ on my own and here at Griffith College I have been exposed to Java. I find programming as a puzzle solving game which can do wonders.</p>
+
+			<p>I hope you have enjoyed my website on Muhammad Ali</p>
+		</main>
+		
+	</div>	
+	<footer>
+		<div>
+			<nav>
+				<ul>
+					<li>Muhammad Umar Tariq</li>
+					<li>GC. Ref: 3042331</li>
+					<li>muhammadumar123@live.com</li>
+				</ul>
+			</nav>
+			</div>
+		
+	</footer>
+
+	</div>
+
+</body>
+</div>
+</html>
